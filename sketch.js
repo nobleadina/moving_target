@@ -17,7 +17,7 @@ function setup (){
 function draw() {
    butts=butts+5
    woof=woof+3
-   noStroke()
+   //noStroke()
   fill(20,180,40,255);
   circle(butts,woof,150)
   fill(90,100,0);
